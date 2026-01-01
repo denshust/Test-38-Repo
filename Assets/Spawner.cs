@@ -9,7 +9,7 @@ public class Spawner : MonoBehaviour
     private int teamCounter=0;
     void Start()
     {
-        
+        Debug.Log("Hello");
     }
 
     // Update is called once per frame
